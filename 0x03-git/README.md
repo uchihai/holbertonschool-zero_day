@@ -1,3 +1,2 @@
-# Welcome to my proyect!
+#  It’s time to code!
 
-welcome to my first holberton school project 
